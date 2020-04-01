@@ -1,12 +1,15 @@
 body {
-    background-color:black;
+    background-color:rgb(12, 12, 15);
     color: white;
     font-family: 'Roboto', sans-serif;
     background-image: url('../img/main-bg.jpg');
     background-repeat: no-repeat;
     background-position: top center;
 }
-
+iframe {
+    height: 415px;
+    width: 100%;
+}
 .container {
     max-width: 1140px;
     margin: auto;
@@ -16,7 +19,7 @@ body {
     align-items: center;
     justify-content: space-between;
     padding-top: 45px;
-    margin-bottom: 30%;
+    margin-bottom: 10%;
 }
 .logo {
     font-style: normal;
