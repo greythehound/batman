@@ -10,6 +10,10 @@ iframe {
     height: 415px;
     width: 100%;
 }
+.seabattle {
+    height: 635px;
+    width: 100%;
+}
 .container {
     max-width: 1140px;
     margin: auto;
